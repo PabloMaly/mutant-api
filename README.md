@@ -15,4 +15,4 @@ Se debe contar con Node y un servidor de MySQL 5.x/MariaDB instalado.
 
 ## Demo
 
-![API](https://github.com/PabloMaly/mutant-api/blob/master/git-image/Annotation%202019-11-12%20133726.png)
+![API](https://github.com/PabloMaly/mutant-api/blob/master/git-image/Annotation%202019-12-18%20000918.png)
