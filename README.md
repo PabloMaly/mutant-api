@@ -6,7 +6,7 @@ Developed with
 * MySQL
 
 ## Initialization Instructions
-Se debe contar con Node y un servidor de MySQL 5.x/MariaDB instalado.
+Se debe contar con Node y un servidor de MySQL 5.x.
 
 1) npm install
 2) npm start
